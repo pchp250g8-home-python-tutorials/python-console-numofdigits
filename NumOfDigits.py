@@ -9,4 +9,4 @@ while (iVal > 0):
     iVal //= 10
     nDigits += 1
 
-print(f"The number {iNum} has {nDigits} digits")
+print(f"The number {iNum} has {nDigits} digit(s)")
